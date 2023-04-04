@@ -4,4 +4,4 @@ El objetivo es demostrar que existen material en línea que se puede utilizar pa
 
 
 ### Python
-[Curso de PYTHON desde CERO para PRINCIPIANTES] (https://www.youtube.com/watch?v=Kp4Mvapo5kc&list=PLNdFk2_brsRdgQXLIlKBXQDeRf3qvXVU_&index=1)
+[Curso de PYTHON desde CERO para PRINCIPIANTES](https://www.youtube.com/watch?v=Kp4Mvapo5kc&list=PLNdFk2_brsRdgQXLIlKBXQDeRf3qvXVU_&index=1)
